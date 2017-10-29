@@ -1,7 +1,7 @@
 ### Section_04 - Battletank ###
 ## GDD
  **game concept** 
- +Game about Tanks, 
+ + Game about Tanks, 
  + You control one of them
  +Riding over terrain and shooting to others
  + Game will give stratey thinking, tuning when shoots, and coordination, masterin experiences
